@@ -1,0 +1,49 @@
+/*#image-background {
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    max-width: 100%; 
+    max-height: 100%;
+}
+
+/*.target-setting-image {
+    ;
+}*/
+
+.target-ttd .target-qrcode {
+
+}
+
+.box-image-ttd {
+    border: 1px solid;
+    padding: 1px;
+    box-shadow: 10px 10px 10px 10px #888888;
+}
+
+.navbar-light { 
+    display: none; 
+}
+
+/*.selector {
+    left: {{ $document->xAxis ?? 100 }}mm;
+    top: {{ $document->yAxis ?? 100 }}mm;
+}*/
+
+.btn-show-setting {
+    border-radius: 50px;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    z-index: 10;
+}
+
+.target-ttd {
+    background-size: 100% 100%;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+.selectable-aing { list-style-type: none; margin: 0; padding: 0; width: 250px; height: 30px;}
+.selectable-aing li { margin: 0 3px 3px 3px; padding: 0.2em; font-size: 14px; width: 250px; height: 30px;}
+.selectable-aing li span { position: absolute; margin-left: -1.3em; }

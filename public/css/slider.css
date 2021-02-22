@@ -1,0 +1,22 @@
+#mainMenu nav > ul > li > a {
+    /* color: #fff; */
+    padding: 5px 3px;
+    font-size: 11px;
+}
+
+#mainMenu nav > ul > li > a:hover {
+    color: orange;
+}
+
+#header .header-inner #logo a > img, #header #header-wrap #logo a > img{
+    /* height: 69px; */
+}
+
+#header .header-inner #logo, #header #header-wrap #logo {
+    height: 60px;
+}
+
+.grid-articles .post-entry:first-child{
+    width: 75% !important;
+}
+

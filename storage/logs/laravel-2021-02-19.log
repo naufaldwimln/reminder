@@ -1,0 +1,34 @@
+[2021-02-19 15:03:30] local.INFO: user2 message. head: yes detail: BP btam  
+[2021-02-19 15:03:30] local.INFO: user2  
+[2021-02-19 15:03:30] local.INFO: user5 message. head: yes detail: BP btam  
+[2021-02-19 15:03:30] local.INFO: user5  
+[2021-02-19 15:03:30] local.INFO: user3 message. head: yes detail: BP btam  
+[2021-02-19 15:03:33] local.INFO: user3  
+[2021-02-19 15:08:55] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:08:57] local.INFO: user4  
+[2021-02-19 15:08:57] local.INFO: user3 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:08:57] local.INFO: user3  
+[2021-02-19 15:09:43] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:09:43] local.INFO: user4  
+[2021-02-19 15:09:43] local.INFO: user3 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:09:44] local.INFO: user3  
+[2021-02-19 15:11:25] local.INFO: user4  
+[2021-02-19 15:11:25] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:12:17] local.INFO: user4  
+[2021-02-19 15:13:00] local.INFO: user4  
+[2021-02-19 15:13:00] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:51:05] local.INFO: user4  
+[2021-02-19 15:51:05] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:51:43] local.INFO: user4  
+[2021-02-19 15:51:43] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:56:14] local.INFO: user4  
+[2021-02-19 15:56:14] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:56:44] local.INFO: user4  
+[2021-02-19 15:57:11] local.INFO: user4  
+[2021-02-19 15:57:11] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 15:57:46] local.INFO: user4  
+[2021-02-19 15:57:46] local.INFO: user4 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 16:00:08] local.INFO: user3  
+[2021-02-19 16:00:08] local.INFO: user3 message. head: Testing reminder 1 detail: detail reminder 1  
+[2021-02-19 16:00:35] local.INFO: user3  
+[2021-02-19 16:00:35] local.INFO: user3 message. head: Testing reminder 1 detail: detail reminder 1  
